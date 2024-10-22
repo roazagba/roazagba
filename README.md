@@ -1,16 +1,34 @@
-## Hi there 👋
+# Salut, je suis Roméo 👋
 
-<!--
-**roazagba/roazagba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Développeur Web Full-Stack | Analyste Programmeur | Junior Data Scientist
 
-Here are some ideas to get you started:
+Bienvenue sur mon profil GitHub ! Je suis un passionné de technologie avec **4 ans d'expérience** en tant que **développeur web full-stack** et **analyste programmeur**. Je m'efforce de concevoir des **solutions techniques efficaces** et **innovantes** pour répondre aux besoins des utilisateurs tout en restant à la pointe des dernières technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En tant que **data scientist junior**, je mets à profit mes compétences en **développement** et en **analyse de données** pour créer des expériences numériques **intelligentes** et **centrées sur l'utilisateur**.
+
+## 🌟 Ce que je fais
+
+### Développement Web
+Je développe des **applications web performantes** et **scalables**, adaptées aux besoins spécifiques de mes clients. Mon approche est centrée sur la performance, la sécurité et la convivialité.
+
+### Data Science
+Je m'intéresse à l'analyse des données et aux **algorithmes d'apprentissage automatique** pour extraire des insights significatifs à partir des données. Je combine mes connaissances en **data science** et en **développement web** pour des solutions complètes et intelligentes.
+
+### Projets Open Source
+Je participe activement à des projets open-source pour **apprendre**, **contribuer** et **collaborer** avec des développeurs du monde entier. 🌍
+
+## 💬 Collaborons !
+
+Je suis toujours à la recherche de **nouveaux défis** et **projets passionnants**. Que ce soit pour créer des **applications web innovantes**, analyser des **datasets complexes** ou contribuer à des projets open-source, n'hésitez pas à me contacter. Ensemble, nous pouvons construire des projets qui font la différence !
+
+📫 **Comment me contacter ?**
+- Portfolio: [https://rozagba.me](https://rozagba.me)
+- Gitlab: [https://gitlab.com/rozagba](https://gitlab.com/rozagba)
+- Linkedin: [https://linkedin.com/in/azagbaromeo](https://linkedin.com/in/azagbaromeo)
+- Facebook: [https://facebook.com/rozagba](https://facebook.com/rozagba)
+- Instagram: [https://instagram.com/rozagba](https://instagram.com/rozagba)
+- X: [https://x.com/rozagba](https://x.com/rozagba)
+- Email pro: [ana@roazagba.me](mailto:ana@roazagba.me)
+- Gmail: [roazagba@gmail.com](mailto:roazagba@gmail.com)
+
+Merci de visiter mon profil GitHub, et au plaisir de collaborer !
