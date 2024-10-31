@@ -18,7 +18,7 @@ Je m'intéresse à l'analyse des données et aux **algorithmes d'apprentissage a
 Je participe activement à des projets open-source pour **apprendre**, **contribuer** et **collaborer** avec des développeurs du monde entier. 🌍
 
 ### Statistiques Github
-![](https://github-readme-stats.vercel.app/api?username=HugoCoder1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=roazagba&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 ## 💬 Collaborons !
 
