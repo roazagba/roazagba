@@ -22,7 +22,7 @@ Je participe activement à des projets open-source pour **apprendre**, **contrib
 ![](https://github-readme-streak-stats.herokuapp.com/?user=roazagba&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roazagba&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=roazagba&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=roazagba&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 ## 💬 Collaborons !
 
