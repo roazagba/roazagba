@@ -22,8 +22,6 @@ Je participe activement à des projets open-source pour **apprendre**, **contrib
 ![](https://github-readme-streak-stats.herokuapp.com/?user=roazagba&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roazagba&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=roazagba&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-
 ## 💬 Collaborons !
 
 Je suis toujours à la recherche de **nouveaux défis** et **projets passionnants**. Que ce soit pour créer des **applications web innovantes**, analyser des **datasets complexes** ou contribuer à des projets open-source, n'hésitez pas à me contacter. Ensemble, nous pouvons construire des projets qui font la différence !
