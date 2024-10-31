@@ -17,6 +17,9 @@ Je m'intéresse à l'analyse des données et aux **algorithmes d'apprentissage a
 ### Projets Open Source
 Je participe activement à des projets open-source pour **apprendre**, **contribuer** et **collaborer** avec des développeurs du monde entier. 🌍
 
+### Statistiques Github
+![](https://github-readme-stats.vercel.app/api?username=HugoCoder1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 ## 💬 Collaborons !
 
 Je suis toujours à la recherche de **nouveaux défis** et **projets passionnants**. Que ce soit pour créer des **applications web innovantes**, analyser des **datasets complexes** ou contribuer à des projets open-source, n'hésitez pas à me contacter. Ensemble, nous pouvons construire des projets qui font la différence !
